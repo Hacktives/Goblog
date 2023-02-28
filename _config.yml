@@ -1,13 +1,13 @@
 name: 
 author: 
-url: https://an-droidx.github.io/Linklzip/
+url: https://an-droidx.github.io/Goblog/
 baseurl: https://github.com/an-droidx/Goblog/
 resume_site: 
 description: 
 github_username: 
 github: 
 plugins: [jekyll-paginate]
-permalink: /:year-:month-:day-:title
+permalink: /:title
 paginate: 12
 paginate_path: "/page/:num/"
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
