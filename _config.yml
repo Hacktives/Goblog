@@ -1,7 +1,7 @@
 name: 
 author: 
-url: https://an-droidx.github.io/Goblog/
-baseurl: https://github.com/an-droidx/Goblog
+url:https://an-droidx.github.io/Goblog/
+baseurl:/Goblog
 resume_site: https://an-droidx.github.io/Goblog/
 description: 
 github_username: 
